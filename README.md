@@ -30,13 +30,7 @@ You can install these packages using pip:
 
 
 ## Dataset
-The dataset should be in CSV format and include the following columns:
-- SquareFootage
-- Bedrooms
-- Bathrooms
-- Price (target variable)
-
-Ensure your dataset is saved as `dataset.csv` in the project directory.
+Dataset used: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ## Usage
 Follow these steps to train and evaluate the model:
