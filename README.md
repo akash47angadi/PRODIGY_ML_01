@@ -28,11 +28,8 @@ Before you begin, ensure you have the following packages installed:
 
 You can install these packages using pip:
 
-```bash
-pip install tensorflow_decision_forests pandas
 
-
-Dataset
+##Dataset
 The dataset should be in CSV format and include the following columns:
 
 SquareFootage
@@ -40,3 +37,13 @@ Bedrooms
 Bathrooms
 Price (target variable)
 Ensure your dataset is saved as dataset.csv in the project directory.
+
+##Usage
+Follow these steps to train and evaluate the model:
+
+Import the required libraries.
+Load the dataset.
+Convert the dataset to a TensorFlow dataset.
+Create and train the model.
+Evaluate the model's performance.
+
