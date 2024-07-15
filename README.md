@@ -29,7 +29,7 @@ Before you begin, ensure you have the following packages installed:
 You can install these packages using pip:
 
 
-##Dataset
+## Dataset
 The dataset should be in CSV format and include the following columns:
 
 SquareFootage
@@ -38,7 +38,7 @@ Bathrooms
 Price (target variable)
 Ensure your dataset is saved as dataset.csv in the project directory.
 
-##Usage
+## Usage
 Follow these steps to train and evaluate the model:
 
 Import the required libraries.
